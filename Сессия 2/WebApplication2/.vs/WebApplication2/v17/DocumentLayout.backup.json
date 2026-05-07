@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 2\\WebApplication2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 2\\AgroControl API Copy.postman_collection.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 2\\WebApplication2\\Migrations\\20260507110545_AddMaterialsExtruderReports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260507110545_AddMaterialsExtruderReports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6447BC2C-1754-4356-A487-0118479C2FC3}|WebApplication2.csproj|d:\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 2\\webapplication2\\models\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6447BC2C-1754-4356-A487-0118479C2FC3}|WebApplication2.csproj|solutionrelative:models\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6447BC2C-1754-4356-A487-0118479C2FC3}|WebApplication2.csproj|d:\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 2\\webapplication2\\controllers\\materialscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6447BC2C-1754-4356-A487-0118479C2FC3}|WebApplication2.csproj|solutionrelative:controllers\\materialscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6447BC2C-1754-4356-A487-0118479C2FC3}|WebApplication2.csproj|d:\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 2\\webapplication2\\controllers\\extruderprogramscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6447BC2C-1754-4356-A487-0118479C2FC3}|WebApplication2.csproj|solutionrelative:controllers\\extruderprogramscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6447BC2C-1754-4356-A487-0118479C2FC3}|WebApplication2.csproj|d:\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 2\\webapplication2\\models\\agrocontroldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6447BC2C-1754-4356-A487-0118479C2FC3}|WebApplication2.csproj|solutionrelative:models\\agrocontroldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6447BC2C-1754-4356-A487-0118479C2FC3}|WebApplication2.csproj|d:\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 2\\webapplication2\\models\\extruderprogramzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6447BC2C-1754-4356-A487-0118479C2FC3}|WebApplication2.csproj|solutionrelative:models\\extruderprogramzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6447BC2C-1754-4356-A487-0118479C2FC3}|WebApplication2.csproj|d:\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 2\\webapplication2\\models\\extruderprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6447BC2C-1754-4356-A487-0118479C2FC3}|WebApplication2.csproj|solutionrelative:models\\extruderprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6447BC2C-1754-4356-A487-0118479C2FC3}|WebApplication2.csproj|d:\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 2\\webapplication2\\controllers\\recipecomponentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6447BC2C-1754-4356-A487-0118479C2FC3}|WebApplication2.csproj|solutionrelative:controllers\\recipecomponentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6447BC2C-1754-4356-A487-0118479C2FC3}|WebApplication2.csproj|d:\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 2\\webapplication2\\models\\recipecomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6447BC2C-1754-4356-A487-0118479C2FC3}|WebApplication2.csproj|solutionrelative:models\\recipecomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6447BC2C-1754-4356-A487-0118479C2FC3}|WebApplication2.csproj|d:\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 2\\webapplication2\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6447BC2C-1754-4356-A487-0118479C2FC3}|WebApplication2.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6447BC2C-1754-4356-A487-0118479C2FC3}|WebApplication2.csproj|d:\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 2\\webapplication2\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6447BC2C-1754-4356-A487-0118479C2FC3}|WebApplication2.csproj|solutionrelative:models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AgroControl API Copy.postman_collection.json",
+              "DocumentMoniker": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 2\\AgroControl API Copy.postman_collection.json",
+              "RelativeDocumentMoniker": "..\\AgroControl API Copy.postman_collection.json",
+              "ToolTip": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 2\\AgroControl API Copy.postman_collection.json",
+              "RelativeToolTip": "..\\AgroControl API Copy.postman_collection.json",
+              "ViewState": "AgIAAMABAAAAAAAAAIAwwCkCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-07T11:07:29.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20260507110545_AddMaterialsExtruderReports.cs",
+              "DocumentMoniker": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 2\\WebApplication2\\Migrations\\20260507110545_AddMaterialsExtruderReports.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260507110545_AddMaterialsExtruderReports.cs",
+              "ToolTip": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 2\\WebApplication2\\Migrations\\20260507110545_AddMaterialsExtruderReports.cs",
+              "RelativeToolTip": "Migrations\\20260507110545_AddMaterialsExtruderReports.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T11:05:45.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExtruderProgramsController.cs",
+              "DocumentMoniker": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 2\\WebApplication2\\Controllers\\ExtruderProgramsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ExtruderProgramsController.cs",
+              "ToolTip": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 2\\WebApplication2\\Controllers\\ExtruderProgramsController.cs",
+              "RelativeToolTip": "Controllers\\ExtruderProgramsController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAADwv04AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T11:03:59.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExtruderProgramZone.cs",
+              "DocumentMoniker": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 2\\WebApplication2\\Models\\ExtruderProgramZone.cs",
+              "RelativeDocumentMoniker": "Models\\ExtruderProgramZone.cs",
+              "ToolTip": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 2\\WebApplication2\\Models\\ExtruderProgramZone.cs",
+              "RelativeToolTip": "Models\\ExtruderProgramZone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T11:03:09.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExtruderProgram.cs",
+              "DocumentMoniker": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 2\\WebApplication2\\Models\\ExtruderProgram.cs",
+              "RelativeDocumentMoniker": "Models\\ExtruderProgram.cs",
+              "ToolTip": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 2\\WebApplication2\\Models\\ExtruderProgram.cs",
+              "RelativeToolTip": "Models\\ExtruderProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T11:02:52.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RecipeComponentsController.cs",
+              "DocumentMoniker": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 2\\WebApplication2\\Controllers\\RecipeComponentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RecipeComponentsController.cs",
+              "ToolTip": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 2\\WebApplication2\\Controllers\\RecipeComponentsController.cs",
+              "RelativeToolTip": "Controllers\\RecipeComponentsController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAmwGIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T11:02:33.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MaterialsController.cs",
+              "DocumentMoniker": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 2\\WebApplication2\\Controllers\\MaterialsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MaterialsController.cs",
+              "ToolTip": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 2\\WebApplication2\\Controllers\\MaterialsController.cs",
+              "RelativeToolTip": "Controllers\\MaterialsController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAUwDAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T11:02:06.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AgroControlDbContext.cs",
+              "DocumentMoniker": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 2\\WebApplication2\\Models\\AgroControlDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\AgroControlDbContext.cs",
+              "ToolTip": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 2\\WebApplication2\\Models\\AgroControlDbContext.cs",
+              "RelativeToolTip": "Models\\AgroControlDbContext.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAADwv6IAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T11:00:55.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RecipeComponent.cs",
+              "DocumentMoniker": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 2\\WebApplication2\\Models\\RecipeComponent.cs",
+              "RelativeDocumentMoniker": "Models\\RecipeComponent.cs",
+              "ToolTip": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 2\\WebApplication2\\Models\\RecipeComponent.cs",
+              "RelativeToolTip": "Models\\RecipeComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T11:00:36.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Material.cs",
+              "DocumentMoniker": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 2\\WebApplication2\\Models\\Material.cs",
+              "RelativeDocumentMoniker": "Models\\Material.cs",
+              "ToolTip": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 2\\WebApplication2\\Models\\Material.cs",
+              "RelativeToolTip": "Models\\Material.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T10:13:31.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 2\\WebApplication2\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 2\\WebApplication2\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwB8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T09:46:59.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Users.cs",
+              "DocumentMoniker": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 2\\WebApplication2\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "Models\\Users.cs",
+              "ToolTip": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 2\\WebApplication2\\Models\\Users.cs",
+              "RelativeToolTip": "Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T09:46:29.201Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

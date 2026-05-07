@@ -1,0 +1,554 @@
+{
+  "info": {
+    "name": "AgroControl API (Basic)",
+    "description": "Основные методы API для управления производством",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "version": "1.0.0"
+  },
+  "item": [
+    {
+      "name": "01. Auth",
+      "item": [
+        {
+          "name": "Register",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"username\": \"tech.ivanov\",\n  \"password\": \"password123\",\n  \"fullName\": \"Иванов Иван Петрович\",\n  \"role\": \"technologist\",\n  \"email\": \"ivan@agrocontrol.ru\",\n  \"phone\": \"+7 (495) 123-45-01\",\n  \"department\": \"Технологический отдел\"\n}"
+            },
+            "url": {
+              "raw": "{{baseUrl}}/api/auth/register",
+              "host": [ "{{baseUrl}}" ],
+              "path": [ "api", "auth", "register" ]
+            }
+          }
+        },
+        {
+          "name": "Login",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"username\": \"tech.ivanov\",\n  \"password\": \"password123\"\n}"
+            },
+            "url": {
+              "raw": "{{baseUrl}}/api/auth/login",
+              "host": [ "{{baseUrl}}" ],
+              "path": [ "api", "auth", "login" ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "02. Users",
+      "item": [
+        {
+          "name": "Get all users",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/api/users",
+              "host": [ "{{baseUrl}}" ],
+              "path": [ "api", "users" ]
+            }
+          }
+        },
+        {
+          "name": "Get user by ID",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/api/users/1",
+              "host": [ "{{baseUrl}}" ],
+              "path": [ "api", "users", "1" ]
+            }
+          }
+        },
+        {
+          "name": "Create user",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"username\": \"new.user\",\n  \"passwordHash\": \"hash123\",\n  \"fullName\": \"Новый Пользователь\",\n  \"role\": \"operator\",\n  \"email\": \"new@agrocontrol.ru\",\n  \"phone\": \"+7 (999) 123-45-67\",\n  \"isActive\": true,\n  \"department\": \"Цех №1\"\n}"
+            },
+            "url": {
+              "raw": "{{baseUrl}}/api/users",
+              "host": [ "{{baseUrl}}" ],
+              "path": [ "api", "users" ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "03. Products",
+      "item": [
+        {
+          "name": "Get all products",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/api/products",
+              "host": [ "{{baseUrl}}" ],
+              "path": [ "api", "products" ]
+            }
+          }
+        },
+        {
+          "name": "Create product",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"code\": \"HERB-001\",\n  \"name\": \"Гербицид А\",\n  \"productType\": \"гербицид\",\n  \"form\": \"жидкий\",\n  \"status\": \"active\"\n}"
+            },
+            "url": {
+              "raw": "{{baseUrl}}/api/products",
+              "host": [ "{{baseUrl}}" ],
+              "path": [ "api", "products" ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "04. Recipes",
+      "item": [
+        {
+          "name": "Get all recipes",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/api/recipes",
+              "host": [ "{{baseUrl}}" ],
+              "path": [ "api", "recipes" ]
+            }
+          }
+        },
+        {
+          "name": "Create recipe",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"name\": \"Гербицид А\",\n  \"version\": 1,\n  \"status\": \"draft\",\n  \"productId\": 1\n}"
+            },
+            "url": {
+              "raw": "{{baseUrl}}/api/recipes",
+              "host": [ "{{baseUrl}}" ],
+              "path": [ "api", "recipes" ]
+            }
+          }
+        },
+        {
+          "name": "Approve recipe",
+          "request": {
+            "method": "PUT",
+            "url": {
+              "raw": "{{baseUrl}}/api/recipes/1/approve",
+              "host": [ "{{baseUrl}}" ],
+              "path": [ "api", "recipes", "1", "approve" ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "05. Production Orders",
+      "item": [
+        {
+          "name": "Get all orders",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/api/productionorders",
+              "host": [ "{{baseUrl}}" ],
+              "path": [ "api", "productionorders" ]
+            }
+          }
+        },
+        {
+          "name": "Create order",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"orderNumber\": \"PO-2401\",\n  \"recipeId\": 1,\n  \"plannedQuantityKg\": 1000,\n  \"status\": \"planned\",\n  \"plannedStartDate\": \"2025-03-01\"\n}"
+            },
+            "url": {
+              "raw": "{{baseUrl}}/api/productionorders",
+              "host": [ "{{baseUrl}}" ],
+              "path": [ "api", "productionorders" ]
+            }
+          }
+        },
+        {
+          "name": "Start order",
+          "request": {
+            "method": "PUT",
+            "url": {
+              "raw": "{{baseUrl}}/api/productionorders/1/start",
+              "host": [ "{{baseUrl}}" ],
+              "path": [ "api", "productionorders", "1", "start" ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "06. Production Batches",
+      "item": [
+        {
+          "name": "Get all batches",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/api/productionbatches",
+              "host": [ "{{baseUrl}}" ],
+              "path": [ "api", "productionbatches" ]
+            }
+          }
+        },
+        {
+          "name": "Create batch",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"batchNumber\": \"B-2401-01\",\n  \"orderId\": 1\n}"
+            },
+            "url": {
+              "raw": "{{baseUrl}}/api/productionbatches",
+              "host": [ "{{baseUrl}}" ],
+              "path": [ "api", "productionbatches" ]
+            }
+          }
+        },
+        {
+          "name": "Start batch",
+          "request": {
+            "method": "PUT",
+            "url": {
+              "raw": "{{baseUrl}}/api/productionbatches/1/start",
+              "host": [ "{{baseUrl}}" ],
+              "path": [ "api", "productionbatches", "1", "start" ]
+            }
+          }
+        },
+        {
+          "name": "Complete batch",
+          "request": {
+            "method": "PUT",
+            "url": {
+              "raw": "{{baseUrl}}/api/productionbatches/1/complete",
+              "host": [ "{{baseUrl}}" ],
+              "path": [ "api", "productionbatches", "1", "complete" ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "07. Production Steps (Аппаратчик)",
+      "item": [
+        {
+          "name": "Get steps by batch",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/api/productionsteps/batch/1",
+              "host": [ "{{baseUrl}}" ],
+              "path": [ "api", "productionsteps", "batch", "1" ]
+            }
+          }
+        },
+        {
+          "name": "Get current step",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/api/productionsteps/batch/1/current",
+              "host": [ "{{baseUrl}}" ],
+              "path": [ "api", "productionsteps", "batch", "1", "current" ]
+            }
+          }
+        },
+        {
+          "name": "Start step",
+          "request": {
+            "method": "PUT",
+            "url": {
+              "raw": "{{baseUrl}}/api/productionsteps/1/start",
+              "host": [ "{{baseUrl}}" ],
+              "path": [ "api", "productionsteps", "1", "start" ]
+            }
+          }
+        },
+        {
+          "name": "Complete step",
+          "request": {
+            "method": "PUT",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"actualTempC\": 44.8,\n  \"actualDurationMin\": 32,\n  \"actualPressureBar\": 1.5,\n  \"operatorComment\": \"OK\"\n}"
+            },
+            "url": {
+              "raw": "{{baseUrl}}/api/productionsteps/1/complete",
+              "host": [ "{{baseUrl}}" ],
+              "path": [ "api", "productionsteps", "1", "complete" ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "08. Quality Control (Лаборатория)",
+      "item": [
+        {
+          "name": "Get QC by batch",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/api/qualitycontrols/batch/1",
+              "host": [ "{{baseUrl}}" ],
+              "path": [ "api", "qualitycontrols", "batch", "1" ]
+            }
+          }
+        },
+        {
+          "name": "Create quality control",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"batchId\": 1,\n  \"sampleType\": \"готовая продукция\",\n  \"parameterName\": \"концентрация\",\n  \"measuredValue\": 98.2,\n  \"standardValue\": \"97\",\n  \"unit\": \"%\",\n  \"result\": \"pass\"\n}"
+            },
+            "url": {
+              "raw": "{{baseUrl}}/api/qualitycontrols",
+              "host": [ "{{baseUrl}}" ],
+              "path": [ "api", "qualitycontrols" ]
+            }
+          }
+        },
+        {
+          "name": "Set decision (Approve/Block)",
+          "request": {
+            "method": "PUT",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"decision\": \"approved\",\n  \"comment\": \"Соответствует норме\"\n}"
+            },
+            "url": {
+              "raw": "{{baseUrl}}/api/qualitycontrols/1/decision",
+              "host": [ "{{baseUrl}}" ],
+              "path": [ "api", "qualitycontrols", "1", "decision" ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "09. Equipment",
+      "item": [
+        {
+          "name": "Get all equipment",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/api/equipment",
+              "host": [ "{{baseUrl}}" ],
+              "path": [ "api", "equipment" ]
+            }
+          }
+        },
+        {
+          "name": "Create equipment",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"code\": \"E-101\",\n  \"name\": \"Экструдер основная линия\",\n  \"location\": \"Цех №1\",\n  \"status\": \"operational\"\n}"
+            },
+            "url": {
+              "raw": "{{baseUrl}}/api/equipment",
+              "host": [ "{{baseUrl}}" ],
+              "path": [ "api", "equipment" ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "10. Deviations",
+      "item": [
+        {
+          "name": "Get unresolved deviations",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/api/deviations/unresolved",
+              "host": [ "{{baseUrl}}" ],
+              "path": [ "api", "deviations", "unresolved" ]
+            }
+          }
+        },
+        {
+          "name": "Create deviation",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"batchId\": 1,\n  \"stepId\": 3,\n  \"deviationType\": \"temperature\",\n  \"description\": \"Температура ниже нормы\",\n  \"severity\": \"medium\",\n  \"reportedBy\": 1\n}"
+            },
+            "url": {
+              "raw": "{{baseUrl}}/api/deviations",
+              "host": [ "{{baseUrl}}" ],
+              "path": [ "api", "deviations" ]
+            }
+          }
+        },
+        {
+          "name": "Resolve deviation",
+          "request": {
+            "method": "PUT",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "\"Отрегулирован нагреватель\""
+            },
+            "url": {
+              "raw": "{{baseUrl}}/api/deviations/1/resolve",
+              "host": [ "{{baseUrl}}" ],
+              "path": [ "api", "deviations", "1", "resolve" ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "11. Reports",
+      "item": [
+        {
+          "name": "Dashboard KPI",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/api/reports/dashboard",
+              "host": [ "{{baseUrl}}" ],
+              "path": [ "api", "reports", "dashboard" ]
+            }
+          }
+        },
+        {
+          "name": "Batch report",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/api/reports/batches?start=2025-03-01&end=2025-03-31",
+              "host": [ "{{baseUrl}}" ],
+              "path": [ "api", "reports", "batches" ]
+            }
+          }
+        },
+        {
+          "name": "Export CSV",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/api/reports/batches/export?start=2025-03-01&end=2025-03-31",
+              "host": [ "{{baseUrl}}" ],
+              "path": [ "api", "reports", "batches", "export" ]
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "variable": [
+    {
+      "key": "baseUrl",
+      "value": "http://localhost:5127",
+      "type": "string"
+    }
+  ]
+}
