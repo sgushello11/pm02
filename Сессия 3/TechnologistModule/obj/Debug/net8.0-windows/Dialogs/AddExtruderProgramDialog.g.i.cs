@@ -101,7 +101,7 @@ namespace TechnologistModule.Dialogs {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/TechnologistModule;component/dialogs/addextruderprogramdialog.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/TechnologistModule;V1.0.0.0;component/dialogs/addextruderprogramdialog.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Dialogs\AddExtruderProgramDialog.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

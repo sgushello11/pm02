@@ -40,6 +40,8 @@
 
                 <Button x:Name="btnLogout" Content="🚪 Выход" Margin="10,10" 
                         Background="#C0392B" Foreground="White" Height="35" Cursor="Hand"/>
+                <!-- Логотип внизу -->
+                <Image Source="7f81ed43b3fd67f2533f71d17c6275d0.ico" Width="92" Height="105" Margin="10,20,10,10" HorizontalAlignment="Center" Opacity="0.8"/>
             </StackPanel>
         </Border>
 

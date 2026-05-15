@@ -85,7 +85,7 @@ namespace TechnologistModule.Dialogs {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/TechnologistModule;component/dialogs/addbatchdialog.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/TechnologistModule;V1.0.0.0;component/dialogs/addbatchdialog.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Dialogs\AddBatchDialog.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

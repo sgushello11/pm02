@@ -32,29 +32,31 @@
                     </StackPanel>
                 </Border>
 
-                <Button x:Name="btnDashboard" Content="🏠 Главная" Margin="10,5" 
+                <Button x:Name="btnDashboard" Content="🏠 Главная" Margin="10,2" 
                         Background="#34495E" Foreground="White" Height="40" Cursor="Hand"/>
-                <Button x:Name="btnProducts" Content="📦 Продукция" Margin="10,5" 
+                <Button x:Name="btnProducts" Content="📦 Продукция" Margin="10,2" 
                         Background="Transparent" Foreground="White" Height="40" Cursor="Hand"/>
-                <Button x:Name="btnRecipes" Content="📝 Рецептуры" Margin="10,5" 
+                <Button x:Name="btnRecipes" Content="📝 Рецептуры" Margin="10,2" 
                         Background="Transparent" Foreground="White" Height="40" Cursor="Hand"/>
-                <Button x:Name="btnTechMaps" Content="🗺️ Тех. карты" Margin="10,5" 
+                <Button x:Name="btnTechMaps" Content="🗺️ Тех. карты" Margin="10,2" 
                         Background="Transparent" Foreground="White" Height="40" Cursor="Hand"/>
-                <Button x:Name="btnOrders" Content="📋 Заказы" Margin="10,5" 
+                <Button x:Name="btnOrders" Content="📋 Заказы" Margin="10,2" 
                         Background="Transparent" Foreground="White" Height="40" Cursor="Hand"/>
-                <Button x:Name="btnBatches" Content="🏷️ Партии" Margin="10,5" 
+                <Button x:Name="btnBatches" Content="🏷️ Партии" Margin="10,2" 
                         Background="Transparent" Foreground="White" Height="40" Cursor="Hand"/>
-                <Button x:Name="btnExtruder" Content="⚙️ Экструдер" Margin="10,5" 
+                <Button x:Name="btnExtruder" Content="⚙️ Экструдер" Margin="10,2" 
                         Background="Transparent" Foreground="White" Height="40" Cursor="Hand"/>
-                <Button x:Name="btnDeviations" Content="⚠️ События" Margin="10,5" 
+                <Button x:Name="btnDeviations" Content="⚠️ События" Margin="10,2" 
                         Background="Transparent" Foreground="White" Height="40" Cursor="Hand"/>
-                <Button x:Name="btnReports" Content="📊 Отчеты" Margin="10,5" 
+                <Button x:Name="btnReports" Content="📊 Отчеты" Margin="10,2" 
                         Background="Transparent" Foreground="White" Height="40" Cursor="Hand"/>
 
                 <Separator Margin="10,15" Background="#555"/>
 
-                <Button x:Name="btnLogout" Content="🚪 Выход" Margin="10,10" 
+                <Button x:Name="btnLogout" Content="🚪 Выход" Margin="10,0" 
                         Background="#C0392B" Foreground="White" Height="35" Cursor="Hand"/>
+                <!-- Логотип внизу -->
+                <Image Source="7f81ed43b3fd67f2533f71d17c6275d0.ico" Width="50" Height="50" Margin="10,20,10,10" HorizontalAlignment="Center" Opacity="0.8"/>
             </StackPanel>
         </Border>
 

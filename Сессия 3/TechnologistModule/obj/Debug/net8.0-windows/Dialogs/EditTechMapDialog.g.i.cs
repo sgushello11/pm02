@@ -93,7 +93,7 @@ namespace TechnologistModule.Dialogs {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/TechnologistModule;component/dialogs/edittechmapdialog.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/TechnologistModule;V1.0.0.0;component/dialogs/edittechmapdialog.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Dialogs\EditTechMapDialog.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
