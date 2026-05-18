@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Колледж\\Учебная практика\\ПМ02\\Сессия 4\\LaboratoryModule\\LaboratoryModule.csproj": {}
+    "C:\\Users\\win11\\OneDrive\\文档\\GitHub\\pm02\\Сессия 4\\LaboratoryModule\\LaboratoryModule.csproj": {}
   },
   "projects": {
-    "D:\\Колледж\\Учебная практика\\ПМ02\\Сессия 4\\LaboratoryModule\\LaboratoryModule.csproj": {
+    "C:\\Users\\win11\\OneDrive\\文档\\GitHub\\pm02\\Сессия 4\\LaboratoryModule\\LaboratoryModule.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Колледж\\Учебная практика\\ПМ02\\Сессия 4\\LaboratoryModule\\LaboratoryModule.csproj",
+        "projectUniqueName": "C:\\Users\\win11\\OneDrive\\文档\\GitHub\\pm02\\Сессия 4\\LaboratoryModule\\LaboratoryModule.csproj",
         "projectName": "LaboratoryModule",
-        "projectPath": "D:\\Колледж\\Учебная практика\\ПМ02\\Сессия 4\\LaboratoryModule\\LaboratoryModule.csproj",
+        "projectPath": "C:\\Users\\win11\\OneDrive\\文档\\GitHub\\pm02\\Сессия 4\\LaboratoryModule\\LaboratoryModule.csproj",
         "packagesPath": "C:\\Users\\win11\\.nuget\\packages\\",
-        "outputPath": "D:\\Колледж\\Учебная практика\\ПМ02\\Сессия 4\\LaboratoryModule\\obj\\",
+        "outputPath": "C:\\Users\\win11\\OneDrive\\文档\\GitHub\\pm02\\Сессия 4\\LaboratoryModule\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,121 +1,121 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\",
+  "WorkspaceRootPath": "C:\\Users\\win11\\OneDrive\\\u6587\u6863\\GitHub\\pm02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|d:\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 4\\laboratorymodule\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|c:\\users\\win11\\onedrive\\\u6587\u6863\\github\\pm02\\\u0441\u0435\u0441\u0441\u0438\u044F 4\\laboratorymodule\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|d:\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 4\\laboratorymodule\\dialogs\\protocoldialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|c:\\users\\win11\\onedrive\\\u6587\u6863\\github\\pm02\\\u0441\u0435\u0441\u0441\u0438\u044F 4\\laboratorymodule\\dialogs\\protocoldialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|solutionrelative:dialogs\\protocoldialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|d:\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 4\\laboratorymodule\\dialogs\\testsessionwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|c:\\users\\win11\\onedrive\\\u6587\u6863\\github\\pm02\\\u0441\u0435\u0441\u0441\u0438\u044F 4\\laboratorymodule\\dialogs\\testsessionwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|solutionrelative:dialogs\\testsessionwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|d:\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 4\\laboratorymodule\\dialogs\\testsessionwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|c:\\users\\win11\\onedrive\\\u6587\u6863\\github\\pm02\\\u0441\u0435\u0441\u0441\u0438\u044F 4\\laboratorymodule\\dialogs\\testsessionwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|solutionrelative:dialogs\\testsessionwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|d:\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 4\\laboratorymodule\\views\\rawmaterialbatchesview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|c:\\users\\win11\\onedrive\\\u6587\u6863\\github\\pm02\\\u0441\u0435\u0441\u0441\u0438\u044F 4\\laboratorymodule\\views\\rawmaterialbatchesview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|solutionrelative:views\\rawmaterialbatchesview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|d:\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 4\\laboratorymodule\\views\\rawmaterialbatchesview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|c:\\users\\win11\\onedrive\\\u6587\u6863\\github\\pm02\\\u0441\u0435\u0441\u0441\u0438\u044F 4\\laboratorymodule\\views\\rawmaterialbatchesview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|solutionrelative:views\\rawmaterialbatchesview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|d:\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 4\\laboratorymodule\\dialogs\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|c:\\users\\win11\\onedrive\\\u6587\u6863\\github\\pm02\\\u0441\u0435\u0441\u0441\u0438\u044F 4\\laboratorymodule\\dialogs\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|solutionrelative:dialogs\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|d:\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 4\\laboratorymodule\\dialogs\\protocoldialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|c:\\users\\win11\\onedrive\\\u6587\u6863\\github\\pm02\\\u0441\u0435\u0441\u0441\u0438\u044F 4\\laboratorymodule\\dialogs\\protocoldialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|solutionrelative:dialogs\\protocoldialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|d:\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 4\\laboratorymodule\\dialogs\\decisiondialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|c:\\users\\win11\\onedrive\\\u6587\u6863\\github\\pm02\\\u0441\u0435\u0441\u0441\u0438\u044F 4\\laboratorymodule\\dialogs\\decisiondialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|solutionrelative:dialogs\\decisiondialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|d:\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 4\\laboratorymodule\\dialogs\\avatardialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|c:\\users\\win11\\onedrive\\\u6587\u6863\\github\\pm02\\\u0441\u0435\u0441\u0441\u0438\u044F 4\\laboratorymodule\\dialogs\\avatardialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|solutionrelative:dialogs\\avatardialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|d:\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 4\\laboratorymodule\\dialogs\\addparameterdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|c:\\users\\win11\\onedrive\\\u6587\u6863\\github\\pm02\\\u0441\u0435\u0441\u0441\u0438\u044F 4\\laboratorymodule\\dialogs\\addparameterdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|solutionrelative:dialogs\\addparameterdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|d:\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 4\\laboratorymodule\\views\\testhistoryview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|c:\\users\\win11\\onedrive\\\u6587\u6863\\github\\pm02\\\u0441\u0435\u0441\u0441\u0438\u044F 4\\laboratorymodule\\views\\testhistoryview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|solutionrelative:views\\testhistoryview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|d:\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 4\\laboratorymodule\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|c:\\users\\win11\\onedrive\\\u6587\u6863\\github\\pm02\\\u0441\u0435\u0441\u0441\u0438\u044F 4\\laboratorymodule\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|solutionrelative:views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|d:\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 4\\laboratorymodule\\views\\dashboardview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|c:\\users\\win11\\onedrive\\\u6587\u6863\\github\\pm02\\\u0441\u0435\u0441\u0441\u0438\u044F 4\\laboratorymodule\\views\\dashboardview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|solutionrelative:views\\dashboardview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|d:\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 4\\laboratorymodule\\views\\finishedproductbatchesview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|c:\\users\\win11\\onedrive\\\u6587\u6863\\github\\pm02\\\u0441\u0435\u0441\u0441\u0438\u044F 4\\laboratorymodule\\views\\finishedproductbatchesview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|solutionrelative:views\\finishedproductbatchesview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|d:\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 4\\laboratorymodule\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|c:\\users\\win11\\onedrive\\\u6587\u6863\\github\\pm02\\\u0441\u0435\u0441\u0441\u0438\u044F 4\\laboratorymodule\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|solutionrelative:services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|d:\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 4\\laboratorymodule\\views\\finishedproductbatchesview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|c:\\users\\win11\\onedrive\\\u6587\u6863\\github\\pm02\\\u0441\u0435\u0441\u0441\u0438\u044F 4\\laboratorymodule\\views\\finishedproductbatchesview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|solutionrelative:views\\finishedproductbatchesview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|d:\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 4\\laboratorymodule\\models\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|c:\\users\\win11\\onedrive\\\u6587\u6863\\github\\pm02\\\u0441\u0435\u0441\u0441\u0438\u044F 4\\laboratorymodule\\models\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|solutionrelative:models\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|d:\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 4\\laboratorymodule\\views\\testhistoryview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|c:\\users\\win11\\onedrive\\\u6587\u6863\\github\\pm02\\\u0441\u0435\u0441\u0441\u0438\u044F 4\\laboratorymodule\\views\\testhistoryview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|solutionrelative:views\\testhistoryview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|d:\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 4\\laboratorymodule\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|c:\\users\\win11\\onedrive\\\u6587\u6863\\github\\pm02\\\u0441\u0435\u0441\u0441\u0438\u044F 4\\laboratorymodule\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|d:\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 4\\laboratorymodule\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|c:\\users\\win11\\onedrive\\\u6587\u6863\\github\\pm02\\\u0441\u0435\u0441\u0441\u0438\u044F 4\\laboratorymodule\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|d:\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 4\\laboratorymodule\\converters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|c:\\users\\win11\\onedrive\\\u6587\u6863\\github\\pm02\\\u0441\u0435\u0441\u0441\u0438\u044F 4\\laboratorymodule\\converters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|solutionrelative:converters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|d:\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 4\\laboratorymodule\\dialogs\\addparameterdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|c:\\users\\win11\\onedrive\\\u6587\u6863\\github\\pm02\\\u0441\u0435\u0441\u0441\u0438\u044F 4\\laboratorymodule\\dialogs\\addparameterdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|solutionrelative:dialogs\\addparameterdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|d:\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 4\\laboratorymodule\\dialogs\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|c:\\users\\win11\\onedrive\\\u6587\u6863\\github\\pm02\\\u0441\u0435\u0441\u0441\u0438\u044F 4\\laboratorymodule\\dialogs\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|solutionrelative:dialogs\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|d:\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 4\\laboratorymodule\\views\\dashboardview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|c:\\users\\win11\\onedrive\\\u6587\u6863\\github\\pm02\\\u0441\u0435\u0441\u0441\u0438\u044F 4\\laboratorymodule\\views\\dashboardview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|solutionrelative:views\\dashboardview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|d:\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 4\\laboratorymodule\\dialogs\\decisiondialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|c:\\users\\win11\\onedrive\\\u6587\u6863\\github\\pm02\\\u0441\u0435\u0441\u0441\u0438\u044F 4\\laboratorymodule\\dialogs\\decisiondialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|solutionrelative:dialogs\\decisiondialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|d:\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 4\\laboratorymodule\\dialogs\\avatardialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|c:\\users\\win11\\onedrive\\\u6587\u6863\\github\\pm02\\\u0441\u0435\u0441\u0441\u0438\u044F 4\\laboratorymodule\\dialogs\\avatardialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|solutionrelative:dialogs\\avatardialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|d:\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 4\\laboratorymodule\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|c:\\users\\win11\\onedrive\\\u6587\u6863\\github\\pm02\\\u0441\u0435\u0441\u0441\u0438\u044F 4\\laboratorymodule\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|d:\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 4\\laboratorymodule\\helpers\\captchagenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|c:\\users\\win11\\onedrive\\\u6587\u6863\\github\\pm02\\\u0441\u0435\u0441\u0441\u0438\u044F 4\\laboratorymodule\\helpers\\captchagenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A142860-9AA2-4EC4-A334-4DAB57ED8619}|LaboratoryModule.csproj|solutionrelative:helpers\\captchagenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -132,9 +132,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ProtocolDialog.xaml.cs",
-              "DocumentMoniker": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Dialogs\\ProtocolDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\\u6587\u6863\\GitHub\\pm02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Dialogs\\ProtocolDialog.xaml.cs",
               "RelativeDocumentMoniker": "Dialogs\\ProtocolDialog.xaml.cs",
-              "ToolTip": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Dialogs\\ProtocolDialog.xaml.cs",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\\u6587\u6863\\GitHub\\pm02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Dialogs\\ProtocolDialog.xaml.cs",
               "RelativeToolTip": "Dialogs\\ProtocolDialog.xaml.cs",
               "ViewState": "AgIAAJMAAAAAAAAAAAASwKEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -144,9 +144,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\\u6587\u6863\\GitHub\\pm02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\\u6587\u6863\\GitHub\\pm02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-05-13T06:54:35.809Z",
@@ -156,9 +156,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "TestSessionWindow.xaml",
-              "DocumentMoniker": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Dialogs\\TestSessionWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\\u6587\u6863\\GitHub\\pm02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Dialogs\\TestSessionWindow.xaml",
               "RelativeDocumentMoniker": "Dialogs\\TestSessionWindow.xaml",
-              "ToolTip": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Dialogs\\TestSessionWindow.xaml",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\\u6587\u6863\\GitHub\\pm02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Dialogs\\TestSessionWindow.xaml",
               "RelativeToolTip": "Dialogs\\TestSessionWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-05-13T09:18:22.404Z"
@@ -167,9 +167,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "TestSessionWindow.xaml.cs",
-              "DocumentMoniker": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Dialogs\\TestSessionWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\\u6587\u6863\\GitHub\\pm02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Dialogs\\TestSessionWindow.xaml.cs",
               "RelativeDocumentMoniker": "Dialogs\\TestSessionWindow.xaml.cs",
-              "ToolTip": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Dialogs\\TestSessionWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\\u6587\u6863\\GitHub\\pm02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Dialogs\\TestSessionWindow.xaml.cs",
               "RelativeToolTip": "Dialogs\\TestSessionWindow.xaml.cs",
               "ViewState": "AgIAAGkAAAAAAAAAAAAiwIgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -179,9 +179,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "RawMaterialBatchesView.xaml.cs",
-              "DocumentMoniker": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Views\\RawMaterialBatchesView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\\u6587\u6863\\GitHub\\pm02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Views\\RawMaterialBatchesView.xaml.cs",
               "RelativeDocumentMoniker": "Views\\RawMaterialBatchesView.xaml.cs",
-              "ToolTip": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Views\\RawMaterialBatchesView.xaml.cs",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\\u6587\u6863\\GitHub\\pm02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Views\\RawMaterialBatchesView.xaml.cs",
               "RelativeToolTip": "Views\\RawMaterialBatchesView.xaml.cs",
               "ViewState": "AgIAAE4AAAAAAAAAAAAcwGsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -191,9 +191,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "RawMaterialBatchesView.xaml",
-              "DocumentMoniker": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Views\\RawMaterialBatchesView.xaml",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\\u6587\u6863\\GitHub\\pm02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Views\\RawMaterialBatchesView.xaml",
               "RelativeDocumentMoniker": "Views\\RawMaterialBatchesView.xaml",
-              "ToolTip": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Views\\RawMaterialBatchesView.xaml",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\\u6587\u6863\\GitHub\\pm02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Views\\RawMaterialBatchesView.xaml",
               "RelativeToolTip": "Views\\RawMaterialBatchesView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-05-13T06:57:34.985Z"
@@ -202,9 +202,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "RegisterWindow.xaml",
-              "DocumentMoniker": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Dialogs\\RegisterWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\\u6587\u6863\\GitHub\\pm02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Dialogs\\RegisterWindow.xaml",
               "RelativeDocumentMoniker": "Dialogs\\RegisterWindow.xaml",
-              "ToolTip": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Dialogs\\RegisterWindow.xaml",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\\u6587\u6863\\GitHub\\pm02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Dialogs\\RegisterWindow.xaml",
               "RelativeToolTip": "Dialogs\\RegisterWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-05-13T07:48:46.399Z"
@@ -213,9 +213,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "ProtocolDialog.xaml",
-              "DocumentMoniker": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Dialogs\\ProtocolDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\\u6587\u6863\\GitHub\\pm02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Dialogs\\ProtocolDialog.xaml",
               "RelativeDocumentMoniker": "Dialogs\\ProtocolDialog.xaml",
-              "ToolTip": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Dialogs\\ProtocolDialog.xaml",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\\u6587\u6863\\GitHub\\pm02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Dialogs\\ProtocolDialog.xaml",
               "RelativeToolTip": "Dialogs\\ProtocolDialog.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-05-14T06:54:56.603Z"
@@ -224,9 +224,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "DecisionDialog.xaml",
-              "DocumentMoniker": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Dialogs\\DecisionDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\\u6587\u6863\\GitHub\\pm02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Dialogs\\DecisionDialog.xaml",
               "RelativeDocumentMoniker": "Dialogs\\DecisionDialog.xaml",
-              "ToolTip": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Dialogs\\DecisionDialog.xaml",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\\u6587\u6863\\GitHub\\pm02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Dialogs\\DecisionDialog.xaml",
               "RelativeToolTip": "Dialogs\\DecisionDialog.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-05-13T06:59:49.666Z"
@@ -235,9 +235,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "AvatarDialog.xaml",
-              "DocumentMoniker": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Dialogs\\AvatarDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\\u6587\u6863\\GitHub\\pm02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Dialogs\\AvatarDialog.xaml",
               "RelativeDocumentMoniker": "Dialogs\\AvatarDialog.xaml",
-              "ToolTip": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Dialogs\\AvatarDialog.xaml",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\\u6587\u6863\\GitHub\\pm02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Dialogs\\AvatarDialog.xaml",
               "RelativeToolTip": "Dialogs\\AvatarDialog.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-05-13T07:54:35.322Z"
@@ -246,9 +246,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "AddParameterDialog.xaml",
-              "DocumentMoniker": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Dialogs\\AddParameterDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\\u6587\u6863\\GitHub\\pm02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Dialogs\\AddParameterDialog.xaml",
               "RelativeDocumentMoniker": "Dialogs\\AddParameterDialog.xaml",
-              "ToolTip": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Dialogs\\AddParameterDialog.xaml",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\\u6587\u6863\\GitHub\\pm02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Dialogs\\AddParameterDialog.xaml",
               "RelativeToolTip": "Dialogs\\AddParameterDialog.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-05-13T09:19:38.741Z"
@@ -257,9 +257,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "TestHistoryView.xaml",
-              "DocumentMoniker": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Views\\TestHistoryView.xaml",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\\u6587\u6863\\GitHub\\pm02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Views\\TestHistoryView.xaml",
               "RelativeDocumentMoniker": "Views\\TestHistoryView.xaml",
-              "ToolTip": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Views\\TestHistoryView.xaml",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\\u6587\u6863\\GitHub\\pm02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Views\\TestHistoryView.xaml",
               "RelativeToolTip": "Views\\TestHistoryView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-05-13T06:58:07.171Z"
@@ -268,9 +268,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "LoginWindow.xaml",
-              "DocumentMoniker": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Views\\LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\\u6587\u6863\\GitHub\\pm02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Views\\LoginWindow.xaml",
               "RelativeDocumentMoniker": "Views\\LoginWindow.xaml",
-              "ToolTip": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Views\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\\u6587\u6863\\GitHub\\pm02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Views\\LoginWindow.xaml",
               "RelativeToolTip": "Views\\LoginWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-05-14T11:23:37.059Z"
@@ -279,9 +279,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "FinishedProductBatchesView.xaml",
-              "DocumentMoniker": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Views\\FinishedProductBatchesView.xaml",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\\u6587\u6863\\GitHub\\pm02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Views\\FinishedProductBatchesView.xaml",
               "RelativeDocumentMoniker": "Views\\FinishedProductBatchesView.xaml",
-              "ToolTip": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Views\\FinishedProductBatchesView.xaml",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\\u6587\u6863\\GitHub\\pm02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Views\\FinishedProductBatchesView.xaml",
               "RelativeToolTip": "Views\\FinishedProductBatchesView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-05-13T06:57:47.635Z"
@@ -290,9 +290,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "DashboardView.xaml",
-              "DocumentMoniker": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Views\\DashboardView.xaml",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\\u6587\u6863\\GitHub\\pm02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Views\\DashboardView.xaml",
               "RelativeDocumentMoniker": "Views\\DashboardView.xaml",
-              "ToolTip": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Views\\DashboardView.xaml",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\\u6587\u6863\\GitHub\\pm02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Views\\DashboardView.xaml",
               "RelativeToolTip": "Views\\DashboardView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-05-13T06:57:15.099Z"
@@ -301,9 +301,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "ApiService.cs",
-              "DocumentMoniker": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Services\\ApiService.cs",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\\u6587\u6863\\GitHub\\pm02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Services\\ApiService.cs",
               "RelativeDocumentMoniker": "Services\\ApiService.cs",
-              "ToolTip": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Services\\ApiService.cs",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\\u6587\u6863\\GitHub\\pm02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Services\\ApiService.cs",
               "RelativeToolTip": "Services\\ApiService.cs",
               "ViewState": "AgIAAIQAAAAAAAAAAAAUwKEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -313,9 +313,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "FinishedProductBatchesView.xaml.cs",
-              "DocumentMoniker": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Views\\FinishedProductBatchesView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\\u6587\u6863\\GitHub\\pm02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Views\\FinishedProductBatchesView.xaml.cs",
               "RelativeDocumentMoniker": "Views\\FinishedProductBatchesView.xaml.cs",
-              "ToolTip": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Views\\FinishedProductBatchesView.xaml.cs",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\\u6587\u6863\\GitHub\\pm02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Views\\FinishedProductBatchesView.xaml.cs",
               "RelativeToolTip": "Views\\FinishedProductBatchesView.xaml.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAUwCoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -325,9 +325,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "Models.cs",
-              "DocumentMoniker": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Models\\Models.cs",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\\u6587\u6863\\GitHub\\pm02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Models\\Models.cs",
               "RelativeDocumentMoniker": "Models\\Models.cs",
-              "ToolTip": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Models\\Models.cs",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\\u6587\u6863\\GitHub\\pm02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Models\\Models.cs",
               "RelativeToolTip": "Models\\Models.cs",
               "ViewState": "AgIAALwAAAAAAAAAAAA+wMYAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -337,9 +337,9 @@
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "App.xaml",
-              "DocumentMoniker": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\App.xaml",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\\u6587\u6863\\GitHub\\pm02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\App.xaml",
               "RelativeDocumentMoniker": "App.xaml",
-              "ToolTip": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\App.xaml",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\\u6587\u6863\\GitHub\\pm02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\App.xaml",
               "RelativeToolTip": "App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-05-13T07:45:08.149Z",
@@ -349,9 +349,9 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "TestHistoryView.xaml.cs",
-              "DocumentMoniker": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Views\\TestHistoryView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\\u6587\u6863\\GitHub\\pm02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Views\\TestHistoryView.xaml.cs",
               "RelativeDocumentMoniker": "Views\\TestHistoryView.xaml.cs",
-              "ToolTip": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Views\\TestHistoryView.xaml.cs",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\\u6587\u6863\\GitHub\\pm02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Views\\TestHistoryView.xaml.cs",
               "RelativeToolTip": "Views\\TestHistoryView.xaml.cs",
               "ViewState": "AgIAAEEAAAAAAAAAAAAiwGAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -361,9 +361,9 @@
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "App.xaml.cs",
-              "DocumentMoniker": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\\u6587\u6863\\GitHub\\pm02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\App.xaml.cs",
               "RelativeDocumentMoniker": "App.xaml.cs",
-              "ToolTip": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\\u6587\u6863\\GitHub\\pm02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\App.xaml.cs",
               "RelativeToolTip": "App.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -373,9 +373,9 @@
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "Converters.cs",
-              "DocumentMoniker": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Converters.cs",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\\u6587\u6863\\GitHub\\pm02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Converters.cs",
               "RelativeDocumentMoniker": "Converters.cs",
-              "ToolTip": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Converters.cs",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\\u6587\u6863\\GitHub\\pm02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Converters.cs",
               "RelativeToolTip": "Converters.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -385,9 +385,9 @@
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "AddParameterDialog.xaml.cs",
-              "DocumentMoniker": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Dialogs\\AddParameterDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\\u6587\u6863\\GitHub\\pm02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Dialogs\\AddParameterDialog.xaml.cs",
               "RelativeDocumentMoniker": "Dialogs\\AddParameterDialog.xaml.cs",
-              "ToolTip": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Dialogs\\AddParameterDialog.xaml.cs",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\\u6587\u6863\\GitHub\\pm02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Dialogs\\AddParameterDialog.xaml.cs",
               "RelativeToolTip": "Dialogs\\AddParameterDialog.xaml.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAUwDEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -397,9 +397,9 @@
               "$type": "Document",
               "DocumentIndex": 23,
               "Title": "RegisterWindow.xaml.cs",
-              "DocumentMoniker": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Dialogs\\RegisterWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\\u6587\u6863\\GitHub\\pm02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Dialogs\\RegisterWindow.xaml.cs",
               "RelativeDocumentMoniker": "Dialogs\\RegisterWindow.xaml.cs",
-              "ToolTip": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Dialogs\\RegisterWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\\u6587\u6863\\GitHub\\pm02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Dialogs\\RegisterWindow.xaml.cs",
               "RelativeToolTip": "Dialogs\\RegisterWindow.xaml.cs",
               "ViewState": "AgIAAHkAAAAAAAAAAAAAAIkAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -409,9 +409,9 @@
               "$type": "Document",
               "DocumentIndex": 24,
               "Title": "DashboardView.xaml.cs",
-              "DocumentMoniker": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Views\\DashboardView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\\u6587\u6863\\GitHub\\pm02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Views\\DashboardView.xaml.cs",
               "RelativeDocumentMoniker": "Views\\DashboardView.xaml.cs",
-              "ToolTip": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Views\\DashboardView.xaml.cs",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\\u6587\u6863\\GitHub\\pm02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Views\\DashboardView.xaml.cs",
               "RelativeToolTip": "Views\\DashboardView.xaml.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -421,9 +421,9 @@
               "$type": "Document",
               "DocumentIndex": 25,
               "Title": "DecisionDialog.xaml.cs",
-              "DocumentMoniker": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Dialogs\\DecisionDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\\u6587\u6863\\GitHub\\pm02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Dialogs\\DecisionDialog.xaml.cs",
               "RelativeDocumentMoniker": "Dialogs\\DecisionDialog.xaml.cs",
-              "ToolTip": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Dialogs\\DecisionDialog.xaml.cs",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\\u6587\u6863\\GitHub\\pm02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Dialogs\\DecisionDialog.xaml.cs",
               "RelativeToolTip": "Dialogs\\DecisionDialog.xaml.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -433,9 +433,9 @@
               "$type": "Document",
               "DocumentIndex": 26,
               "Title": "AvatarDialog.xaml.cs",
-              "DocumentMoniker": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Dialogs\\AvatarDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\\u6587\u6863\\GitHub\\pm02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Dialogs\\AvatarDialog.xaml.cs",
               "RelativeDocumentMoniker": "Dialogs\\AvatarDialog.xaml.cs",
-              "ToolTip": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Dialogs\\AvatarDialog.xaml.cs",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\\u6587\u6863\\GitHub\\pm02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Dialogs\\AvatarDialog.xaml.cs",
               "RelativeToolTip": "Dialogs\\AvatarDialog.xaml.cs",
               "ViewState": "AgIAAFMAAAAAAAAAAAAAAHMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -445,9 +445,9 @@
               "$type": "Document",
               "DocumentIndex": 27,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\\u6587\u6863\\GitHub\\pm02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\\u6587\u6863\\GitHub\\pm02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
               "ViewState": "AgIAAE8AAAAAAAAAAAAAAG8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -457,9 +457,9 @@
               "$type": "Document",
               "DocumentIndex": 28,
               "Title": "CaptchaGenerator.cs",
-              "DocumentMoniker": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Helpers\\CaptchaGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\\u6587\u6863\\GitHub\\pm02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Helpers\\CaptchaGenerator.cs",
               "RelativeDocumentMoniker": "Helpers\\CaptchaGenerator.cs",
-              "ToolTip": "D:\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u041C02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Helpers\\CaptchaGenerator.cs",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\\u6587\u6863\\GitHub\\pm02\\\u0421\u0435\u0441\u0441\u0438\u044F 4\\LaboratoryModule\\Helpers\\CaptchaGenerator.cs",
               "RelativeToolTip": "Helpers\\CaptchaGenerator.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAAADQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
