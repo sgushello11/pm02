@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DWFJ4fz14/Y=",
+  "dgSpecHash": "/CadnjQ1j8A=",
   "success": true,
-  "projectFilePath": "D:\\Колледж\\Учебная практика\\ПМ02\\Сессия 2\\Api.Tests\\Api.Tests.csproj",
+  "projectFilePath": "C:\\Users\\win11\\OneDrive\\文档\\GitHub\\pm02\\Сессия 6\\Api.Tests\\Api.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\win11\\.nuget\\packages\\microsoft.applicationinsights\\2.22.0\\microsoft.applicationinsights.2.22.0.nupkg.sha512",
     "C:\\Users\\win11\\.nuget\\packages\\microsoft.codecoverage\\18.5.1\\microsoft.codecoverage.18.5.1.nupkg.sha512",

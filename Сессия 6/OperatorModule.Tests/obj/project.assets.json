@@ -917,28 +917,6 @@
           "build/net8.0/Microsoft.TestPlatform.TestHost.targets": {}
         }
       },
-      "Microsoft.Win32.SystemEvents/10.0.8": {
-        "type": "package",
-        "compile": {
-          "lib/net8.0/Microsoft.Win32.SystemEvents.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/net8.0/Microsoft.Win32.SystemEvents.dll": {
-            "related": ".xml"
-          }
-        },
-        "build": {
-          "buildTransitive/net8.0/_._": {}
-        },
-        "runtimeTargets": {
-          "runtimes/win/lib/net8.0/Microsoft.Win32.SystemEvents.dll": {
-            "assetType": "runtime",
-            "rid": "win"
-          }
-        }
-      },
       "MSTest/3.6.4": {
         "type": "package",
         "dependencies": {
@@ -1070,37 +1048,6 @@
           }
         }
       },
-      "System.Drawing.Common/10.0.8": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.Win32.SystemEvents": "10.0.8"
-        },
-        "compile": {
-          "lib/net8.0/System.Drawing.Common.dll": {
-            "related": ".pdb;.xml"
-          },
-          "lib/net8.0/System.Private.Windows.Core.dll": {
-            "related": ".xml"
-          },
-          "lib/net8.0/System.Private.Windows.GdiPlus.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/net8.0/System.Drawing.Common.dll": {
-            "related": ".pdb;.xml"
-          },
-          "lib/net8.0/System.Private.Windows.Core.dll": {
-            "related": ".xml"
-          },
-          "lib/net8.0/System.Private.Windows.GdiPlus.dll": {
-            "related": ".xml"
-          }
-        },
-        "build": {
-          "buildTransitive/net8.0/_._": {}
-        }
-      },
       "System.Memory/4.5.4": {
         "type": "package",
         "compile": {
@@ -1189,23 +1136,6 @@
         "build": {
           "buildTransitive/netcoreapp3.1/System.Text.Json.targets": {}
         }
-      },
-      "OperatorModule/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "Newtonsoft.Json": "13.0.3",
-          "System.Drawing.Common": "10.0.8"
-        },
-        "compile": {
-          "bin/placeholder/OperatorModule.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/OperatorModule.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.WindowsDesktop.App"
-        ]
       }
     }
   },
@@ -2097,41 +2027,6 @@
         "microsoft.testplatform.testhost.nuspec"
       ]
     },
-    "Microsoft.Win32.SystemEvents/10.0.8": {
-      "sha512": "J9+VT0lkrA7wW38CGxO2sZd+iH9C0qzioMi/2ztpT32WOVr+04uNqFIrxisTRf+mvtXLtdqcio1AoS0vfAVLLQ==",
-      "type": "package",
-      "path": "microsoft.win32.systemevents/10.0.8",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "Icon.png",
-        "PACKAGE.md",
-        "THIRD-PARTY-NOTICES.TXT",
-        "buildTransitive/net461/Microsoft.Win32.SystemEvents.targets",
-        "buildTransitive/net462/_._",
-        "buildTransitive/net8.0/_._",
-        "buildTransitive/netcoreapp2.0/Microsoft.Win32.SystemEvents.targets",
-        "lib/net10.0/Microsoft.Win32.SystemEvents.dll",
-        "lib/net10.0/Microsoft.Win32.SystemEvents.xml",
-        "lib/net462/Microsoft.Win32.SystemEvents.dll",
-        "lib/net462/Microsoft.Win32.SystemEvents.xml",
-        "lib/net8.0/Microsoft.Win32.SystemEvents.dll",
-        "lib/net8.0/Microsoft.Win32.SystemEvents.xml",
-        "lib/net9.0/Microsoft.Win32.SystemEvents.dll",
-        "lib/net9.0/Microsoft.Win32.SystemEvents.xml",
-        "lib/netstandard2.0/Microsoft.Win32.SystemEvents.dll",
-        "lib/netstandard2.0/Microsoft.Win32.SystemEvents.xml",
-        "microsoft.win32.systemevents.10.0.8.nupkg.sha512",
-        "microsoft.win32.systemevents.nuspec",
-        "runtimes/win/lib/net10.0/Microsoft.Win32.SystemEvents.dll",
-        "runtimes/win/lib/net10.0/Microsoft.Win32.SystemEvents.xml",
-        "runtimes/win/lib/net8.0/Microsoft.Win32.SystemEvents.dll",
-        "runtimes/win/lib/net8.0/Microsoft.Win32.SystemEvents.xml",
-        "runtimes/win/lib/net9.0/Microsoft.Win32.SystemEvents.dll",
-        "runtimes/win/lib/net9.0/Microsoft.Win32.SystemEvents.xml",
-        "useSharedDesignerContext.txt"
-      ]
-    },
     "MSTest/3.6.4": {
       "sha512": "PDBqb7FT15DBD/LQtAr2Eq/UY9YVTgsY7CD7ZiDnamc/RI+/2VSak6qotTV+x2oyhcRJxE4USRgyqXIRlyU3kw==",
       "type": "package",
@@ -2502,59 +2397,6 @@
         "version.txt"
       ]
     },
-    "System.Drawing.Common/10.0.8": {
-      "sha512": "LCISd6JAF80vsy9L6wuetZeOMR3FH+SwKovw5Zl0Nov9pB9ZOiCSqvOfMzooypPItQLv0mGfEePjJ1nCCQztNw==",
-      "type": "package",
-      "path": "system.drawing.common/10.0.8",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "Icon.png",
-        "LICENSE.TXT",
-        "PACKAGE.md",
-        "THIRD-PARTY-NOTICES.TXT",
-        "buildTransitive/net461/System.Drawing.Common.targets",
-        "buildTransitive/net462/_._",
-        "buildTransitive/net8.0/_._",
-        "buildTransitive/netcoreapp2.0/System.Drawing.Common.targets",
-        "lib/MonoAndroid10/_._",
-        "lib/MonoTouch10/_._",
-        "lib/net10.0/System.Drawing.Common.dll",
-        "lib/net10.0/System.Drawing.Common.pdb",
-        "lib/net10.0/System.Drawing.Common.xml",
-        "lib/net10.0/System.Private.Windows.Core.dll",
-        "lib/net10.0/System.Private.Windows.Core.xml",
-        "lib/net10.0/System.Private.Windows.GdiPlus.dll",
-        "lib/net10.0/System.Private.Windows.GdiPlus.xml",
-        "lib/net462/System.Drawing.Common.dll",
-        "lib/net462/System.Drawing.Common.pdb",
-        "lib/net462/System.Drawing.Common.xml",
-        "lib/net8.0/System.Drawing.Common.dll",
-        "lib/net8.0/System.Drawing.Common.pdb",
-        "lib/net8.0/System.Drawing.Common.xml",
-        "lib/net8.0/System.Private.Windows.Core.dll",
-        "lib/net8.0/System.Private.Windows.Core.xml",
-        "lib/net8.0/System.Private.Windows.GdiPlus.dll",
-        "lib/net8.0/System.Private.Windows.GdiPlus.xml",
-        "lib/net9.0/System.Drawing.Common.dll",
-        "lib/net9.0/System.Drawing.Common.pdb",
-        "lib/net9.0/System.Drawing.Common.xml",
-        "lib/net9.0/System.Private.Windows.Core.dll",
-        "lib/net9.0/System.Private.Windows.Core.xml",
-        "lib/net9.0/System.Private.Windows.GdiPlus.dll",
-        "lib/net9.0/System.Private.Windows.GdiPlus.xml",
-        "lib/netstandard2.0/System.Drawing.Common.dll",
-        "lib/netstandard2.0/System.Drawing.Common.pdb",
-        "lib/netstandard2.0/System.Drawing.Common.xml",
-        "lib/xamarinios10/_._",
-        "lib/xamarinmac20/_._",
-        "lib/xamarintvos10/_._",
-        "lib/xamarinwatchos10/_._",
-        "system.drawing.common.10.0.8.nupkg.sha512",
-        "system.drawing.common.nuspec",
-        "useSharedDesignerContext.txt"
-      ]
-    },
     "System.Memory/4.5.4": {
       "sha512": "1MbJTHS1lZ4bS4FmsJjnuGJOu88ZzTT2rLvrhW7Ygic+pC0NWA+3hgAen0HRdsocuQXCkUTdFn9yHJJhsijDXw==",
       "type": "package",
@@ -2713,20 +2555,15 @@
         "system.text.json.nuspec",
         "useSharedDesignerContext.txt"
       ]
-    },
-    "OperatorModule/1.0.0": {
-      "type": "project",
-      "path": "../OperatorModule/OperatorModule.csproj",
-      "msbuildProject": "../OperatorModule/OperatorModule.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0-windows7.0": [
+      "C:\\Users\\win11\\OneDrive\\文档\\GitHub\\pm02\\Сессия 6\\OperatorModule\\OperatorModule.csproj",
       "MSTest >= 3.6.4",
       "Microsoft.NET.Test.Sdk >= 18.5.1",
       "Microsoft.Testing.Extensions.CodeCoverage >= 17.12.6",
-      "Microsoft.Testing.Extensions.TrxReport >= 1.4.3",
-      "OperatorModule >= 1.0.0"
+      "Microsoft.Testing.Extensions.TrxReport >= 1.4.3"
     ]
   },
   "packageFolders": {
@@ -2736,11 +2573,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Колледж\\Учебная практика\\ПМ02\\Сессия 5\\OperatorModule.Tests\\OperatorModule.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\win11\\OneDrive\\文档\\GitHub\\pm02\\Сессия 6\\OperatorModule.Tests\\OperatorModule.Tests.csproj",
       "projectName": "OperatorModule.Tests",
-      "projectPath": "D:\\Колледж\\Учебная практика\\ПМ02\\Сессия 5\\OperatorModule.Tests\\OperatorModule.Tests.csproj",
+      "projectPath": "C:\\Users\\win11\\OneDrive\\文档\\GitHub\\pm02\\Сессия 6\\OperatorModule.Tests\\OperatorModule.Tests.csproj",
       "packagesPath": "C:\\Users\\win11\\.nuget\\packages\\",
-      "outputPath": "D:\\Колледж\\Учебная практика\\ПМ02\\Сессия 5\\OperatorModule.Tests\\obj\\",
+      "outputPath": "C:\\Users\\win11\\OneDrive\\文档\\GitHub\\pm02\\Сессия 6\\OperatorModule.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2762,8 +2599,8 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "D:\\Колледж\\Учебная практика\\ПМ02\\Сессия 5\\OperatorModule\\OperatorModule.csproj": {
-              "projectPath": "D:\\Колледж\\Учебная практика\\ПМ02\\Сессия 5\\OperatorModule\\OperatorModule.csproj"
+            "C:\\Users\\win11\\OneDrive\\文档\\GitHub\\pm02\\Сессия 6\\OperatorModule\\OperatorModule.csproj": {
+              "projectPath": "C:\\Users\\win11\\OneDrive\\文档\\GitHub\\pm02\\Сессия 6\\OperatorModule\\OperatorModule.csproj"
             }
           }
         }
@@ -2838,5 +2675,16 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Не удалось найти проект \"C:\\Users\\win11\\OneDrive\\文档\\GitHub\\pm02\\Сессия 6\\OperatorModule\\OperatorModule.csproj\". Убедитесь, что ссылка на проект действительна и файл проекта существует.",
+      "libraryId": "C:\\Users\\win11\\OneDrive\\文档\\GitHub\\pm02\\Сессия 6\\OperatorModule\\OperatorModule.csproj",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    }
+  ]
 }

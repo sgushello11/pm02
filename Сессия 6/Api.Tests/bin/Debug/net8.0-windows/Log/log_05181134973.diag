@@ -1,0 +1,16 @@
+2026-05-18T11:37:34.9793055+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Version: 1.4.3+c252b64ad913ea9411fc5d17bfd5580d2d061497
+2026-05-18T11:37:34.9957123+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging mode: asynchronous
+2026-05-18T11:37:34.9966619+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging level: Information
+2026-05-18T11:37:34.9966675+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION CreateBuilderAsync entry time: 11:37:34.955
+2026-05-18T11:37:34.9979456+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION PID: 41924
+2026-05-18T11:37:34.9980566+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime information: win-x64 - .NET 8.0.26
+2026-05-18T11:37:34.9980660+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime location: C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.26\System.Private.CoreLib.dll
+2026-05-18T11:37:34.9980735+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION IsDynamicCodeSupported: True
+2026-05-18T11:37:34.9980753+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Test module: C:\Users\win11\OneDrive\文档\GitHub\pm02\Сессия 6\Api.Tests\bin\Debug\net8.0-windows\Api.Tests.dll
+2026-05-18T11:37:34.9982192+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Command line arguments: '--server --diagnostic --diagnostic-verbosity Information --diagnostic-output-directory C:\Users\win11\OneDrive\文档\GitHub\pm02\Сессия 6\Api.Tests\bin\Debug\net8.0-windows\Log --results-directory C:\Users\win11\OneDrive\文档\GitHub\pm02\Сессия 6\Api.Tests\TestResults --client-port 58832'
+2026-05-18T11:37:34.9991247+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION TESTINGPLATFORM_DEFAULT_HANG_TIMEOUT: ''
+2026-05-18T11:37:35.0166276+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting RegisterEnvironmentVariablesConfigurationSource: 'True'
+2026-05-18T11:37:35.0194314+00:00 Microsoft.Testing.Platform.Configurations.JsonConfigurationSource+JsonConfigurationProvider INFORMATION Config file 'C:\Users\win11\OneDrive\文档\GitHub\pm02\Сессия 6\Api.Tests\bin\Debug\net8.0-windows\Api.Tests.testconfig.json' not found.
+2026-05-18T11:37:35.0203532+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting PlatformExitProcessOnUnhandledException: 'False', config file: False environment variable:  VSTest mode: False
+2026-05-18T11:37:35.1345017+00:00 Microsoft.Testing.Platform.Requests.TestHostTestFrameworkInvoker INFORMATION Test framework UID: 'MSTestExtension' Version: '3.6.4' DisplayName: 'MSTest' Description: 'MSTest Framework for Microsoft Testing Platform'
+2026-05-18T11:37:35.2046986+00:00 Microsoft.Testing.Extensions.VSTestBridge.ObjectModel.MessageLoggerAdapter INFORMATION Включена параллелизация тестов для C:\Users\win11\OneDrive\文档\GitHub\pm02\Сессия 6\Api.Tests\bin\Debug\net8.0-windows\Api.Tests.dll (рабочие роли: 16, область: MethodLevel)

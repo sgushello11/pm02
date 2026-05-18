@@ -265,3 +265,6 @@ D:\Колледж\Учебная практика\ПМ02\Сессия 5\Operator
 D:\Колледж\Учебная практика\ПМ02\Сессия 5\OperatorModule.Tests\obj\Debug\net8.0-windows\OperatorModule.Tests.pdb
 D:\Колледж\Учебная практика\ПМ02\Сессия 5\OperatorModule.Tests\obj\Debug\net8.0-windows\OperatorModule.Tests.genruntimeconfig.cache
 D:\Колледж\Учебная практика\ПМ02\Сессия 5\OperatorModule.Tests\obj\Debug\net8.0-windows\ref\OperatorModule.Tests.dll
+C:\Users\win11\OneDrive\文档\GitHub\pm02\Сессия 6\OperatorModule.Tests\obj\Debug\net8.0-windows\OperatorModule.Tests.dll
+C:\Users\win11\OneDrive\文档\GitHub\pm02\Сессия 6\OperatorModule.Tests\obj\Debug\net8.0-windows\refint\OperatorModule.Tests.dll
+C:\Users\win11\OneDrive\文档\GitHub\pm02\Сессия 6\OperatorModule.Tests\obj\Debug\net8.0-windows\OperatorModule.Tests.pdb
