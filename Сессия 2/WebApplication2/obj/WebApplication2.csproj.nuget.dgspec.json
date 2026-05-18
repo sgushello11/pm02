@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Колледж\\Учебная практика\\ПМ02\\Сессия 2\\WebApplication2\\WebApplication2.csproj": {}
+    "C:\\Users\\win11\\OneDrive\\文档\\GitHub\\pm02\\Сессия 2\\WebApplication2\\WebApplication2.csproj": {}
   },
   "projects": {
-    "D:\\Колледж\\Учебная практика\\ПМ02\\Сессия 2\\WebApplication2\\WebApplication2.csproj": {
+    "C:\\Users\\win11\\OneDrive\\文档\\GitHub\\pm02\\Сессия 2\\WebApplication2\\WebApplication2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Колледж\\Учебная практика\\ПМ02\\Сессия 2\\WebApplication2\\WebApplication2.csproj",
+        "projectUniqueName": "C:\\Users\\win11\\OneDrive\\文档\\GitHub\\pm02\\Сессия 2\\WebApplication2\\WebApplication2.csproj",
         "projectName": "WebApplication2",
-        "projectPath": "D:\\Колледж\\Учебная практика\\ПМ02\\Сессия 2\\WebApplication2\\WebApplication2.csproj",
+        "projectPath": "C:\\Users\\win11\\OneDrive\\文档\\GitHub\\pm02\\Сессия 2\\WebApplication2\\WebApplication2.csproj",
         "packagesPath": "C:\\Users\\win11\\.nuget\\packages\\",
-        "outputPath": "D:\\Колледж\\Учебная практика\\ПМ02\\Сессия 2\\WebApplication2\\obj\\",
+        "outputPath": "C:\\Users\\win11\\OneDrive\\文档\\GitHub\\pm02\\Сессия 2\\WebApplication2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -85,7 +85,7 @@ namespace TechnologistModule.Dialogs {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/TechnologistModule;V1.0.0.0;component/dialogs/editorderdialog.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/TechnologistModule;component/dialogs/editorderdialog.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Dialogs\EditOrderDialog.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

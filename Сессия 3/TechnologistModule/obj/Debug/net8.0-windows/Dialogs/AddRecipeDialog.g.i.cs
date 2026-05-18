@@ -85,7 +85,7 @@ namespace TechnologistModule.Dialogs {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/TechnologistModule;V1.0.0.0;component/dialogs/addrecipedialog.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/TechnologistModule;component/dialogs/addrecipedialog.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Dialogs\AddRecipeDialog.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

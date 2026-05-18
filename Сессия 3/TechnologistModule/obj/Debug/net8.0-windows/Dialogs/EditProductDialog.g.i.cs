@@ -101,7 +101,7 @@ namespace TechnologistModule.Dialogs {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/TechnologistModule;V1.0.0.0;component/dialogs/editproductdialog.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/TechnologistModule;component/dialogs/editproductdialog.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Dialogs\EditProductDialog.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

@@ -133,7 +133,7 @@ namespace TechnologistModule.Views {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/TechnologistModule;V1.0.0.0;component/views/extruderview.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/TechnologistModule;component/views/extruderview.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Views\ExtruderView.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

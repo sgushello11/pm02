@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Колледж\\Учебная практика\\ПМ02\\Сессия 3\\TechnologistModule\\TechnologistModule.csproj": {}
+    "C:\\Users\\win11\\OneDrive\\文档\\GitHub\\pm02\\Сессия 3\\TechnologistModule\\TechnologistModule.csproj": {}
   },
   "projects": {
-    "D:\\Колледж\\Учебная практика\\ПМ02\\Сессия 3\\TechnologistModule\\TechnologistModule.csproj": {
+    "C:\\Users\\win11\\OneDrive\\文档\\GitHub\\pm02\\Сессия 3\\TechnologistModule\\TechnologistModule.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Колледж\\Учебная практика\\ПМ02\\Сессия 3\\TechnologistModule\\TechnologistModule.csproj",
+        "projectUniqueName": "C:\\Users\\win11\\OneDrive\\文档\\GitHub\\pm02\\Сессия 3\\TechnologistModule\\TechnologistModule.csproj",
         "projectName": "TechnologistModule",
-        "projectPath": "D:\\Колледж\\Учебная практика\\ПМ02\\Сессия 3\\TechnologistModule\\TechnologistModule.csproj",
+        "projectPath": "C:\\Users\\win11\\OneDrive\\文档\\GitHub\\pm02\\Сессия 3\\TechnologistModule\\TechnologistModule.csproj",
         "packagesPath": "C:\\Users\\win11\\.nuget\\packages\\",
-        "outputPath": "D:\\Колледж\\Учебная практика\\ПМ02\\Сессия 3\\TechnologistModule\\obj\\",
+        "outputPath": "C:\\Users\\win11\\OneDrive\\文档\\GitHub\\pm02\\Сессия 3\\TechnologistModule\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
